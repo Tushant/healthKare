@@ -1,9 +1,9 @@
 {
   "main.css": "/static/css/main.7a8f195a.chunk.css",
-  "main.js": "/static/js/main.6145a450.chunk.js",
-  "main.js.map": "/static/js/main.6145a450.chunk.js.map",
-  "static/js/1.a630d470.chunk.js": "/static/js/1.a630d470.chunk.js",
-  "static/js/1.a630d470.chunk.js.map": "/static/js/1.a630d470.chunk.js.map",
+  "main.js": "/static/js/main.95933609.chunk.js",
+  "main.js.map": "/static/js/main.95933609.chunk.js.map",
+  "static/js/1.04747267.chunk.js": "/static/js/1.04747267.chunk.js",
+  "static/js/1.04747267.chunk.js.map": "/static/js/1.04747267.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/dashboardIcon.svg": "/static/media/dashboardIcon.cb23e0cf.svg",
@@ -33,11 +33,11 @@
   "static/media/brokers.svg": "/static/media/brokers.2162db0f.svg",
   "static/media/agents.svg": "/static/media/agents.9764ea3e.svg",
   "static/media/listings.svg": "/static/media/listings.e27b80b5.svg",
-  "static/media/index.css": "/static/media/check.9462b2a1.svg",
+  "static/media/index.css": "/static/media/Proxima_Nova_Regular.410504d4.otf",
   "static/media/dashboard-files.svg": "/static/media/dashboard-files.5b9c9b2c.svg",
   "static/media/dashboard-reports.svg": "/static/media/dashboard-reports.5ef53704.svg",
   "static/css/main.7a8f195a.chunk.css.map": "/static/css/main.7a8f195a.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.f689cb52779a52c7fa43627aae25b710.js": "/precache-manifest.f689cb52779a52c7fa43627aae25b710.js",
+  "precache-manifest.7b284153baf907015413151c74d72123.js": "/precache-manifest.7b284153baf907015413151c74d72123.js",
   "service-worker.js": "/service-worker.js"
 }

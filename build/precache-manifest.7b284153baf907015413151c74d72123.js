@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/dashboard-finance.a0839d1c.svg"
   },
   {
-    "revision": "6145a450edce5daf503f",
+    "revision": "959336096e77de951ac3",
     "url": "/static/css/main.7a8f195a.chunk.css"
   },
   {
-    "revision": "a630d47084658dc61bc6",
-    "url": "/static/js/1.a630d470.chunk.js"
+    "revision": "04747267f53924d8cbfa",
+    "url": "/static/js/1.04747267.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -72,8 +72,8 @@ self.__precacheManifest = [
     "url": "/static/media/dashboard-network.fd242356.svg"
   },
   {
-    "revision": "6145a450edce5daf503f",
-    "url": "/static/js/main.6145a450.chunk.js"
+    "revision": "959336096e77de951ac3",
+    "url": "/static/js/main.95933609.chunk.js"
   },
   {
     "revision": "baa73cda5b52b5907cc108be003fa14b",
@@ -124,12 +124,12 @@ self.__precacheManifest = [
     "url": "/static/media/listings.e27b80b5.svg"
   },
   {
-    "revision": "410504d49238e955ba7dc23a7f963021",
-    "url": "/static/media/Proxima_Nova_Regular.410504d4.otf"
-  },
-  {
     "revision": "9462b2a11887ed3fbc42de1a4f10f538",
     "url": "/static/media/check.9462b2a1.svg"
+  },
+  {
+    "revision": "410504d49238e955ba7dc23a7f963021",
+    "url": "/static/media/Proxima_Nova_Regular.410504d4.otf"
   },
   {
     "revision": "5b9c9b2c6083b1591fc46014fa55a105",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/static/media/dashboard-reports.5ef53704.svg"
   },
   {
-    "revision": "a7bb9f98a5b851e8712ac36db8fd1cef",
+    "revision": "be10f20d7c2fdfcc6bc6555246257659",
     "url": "/index.html"
   }
 ];
