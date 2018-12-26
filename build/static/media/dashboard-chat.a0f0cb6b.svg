@@ -1,0 +1,13 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 15 Copy">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H20V20H0V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<g id="Group 38">
+<path id="Shape" d="M8.15385 16.7692H16.7692L20 20V8.15385C20 6.96438 19.0356 6 17.8462 6H8.15385C6.96438 6 6 6.96438 6 8.15385V14.6154C6 15.8048 6.96438 16.7692 8.15385 16.7692Z" fill="#B2CCFF"/>
+<path id="Shape_2" d="M11.9259 10.7692H3.11111L0 14V2.15385C0 0.964385 0.928667 0 2.07407 0H11.9259C13.0713 0 14 0.964385 14 2.15385V8.61539C14 9.80485 13.0713 10.7692 11.9259 10.7692Z" fill="#5B91FB"/>
+</g>
+</g>
+</g>
+</svg>
