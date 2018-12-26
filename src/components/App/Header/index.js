@@ -1,10 +1,9 @@
 import React from 'react';
+import styled from 'styled-components';
 
+import LogoIcon from 'assets/icons/Logo.svg';
 import Menu from './Menu';
 import Search from './Search';
-
-import styled from 'styled-components';
-import LogoIcon from 'assets/icons/Logo.svg';
 
 const
   Wrapper = styled.div`
