@@ -1,0 +1,16 @@
+<svg viewBox="0 0 153 141" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g id="Canvas" transform="matrix(3 0 0 3 6678 -321)">
+		<use xlink:href="#path0_fill" transform="matrix(-0.87462 0.48481 0.48481 0.87462 -2197.66 104.727)" fill="#B2CCFF"/>
+		<mask id="mask0_outline" mask-type="alpha">
+			<use xlink:href="#path0_fill" transform="matrix(-0.87462 0.48481 0.48481 0.87462 -2197.66 104.727)" fill="#FFFFFF"/>
+		</mask>
+		<g mask="url(#mask0_outline)">
+			<use xlink:href="#path1_fill" transform="translate(-2210.02 104.361)" fill="#3C6BC9"/>
+		</g>
+		<use xlink:href="#path0_fill" transform="matrix(0.87462 0.48481 -0.48481 0.87462 -2203.78 104.727)" fill="#5B91FB"/>
+	</g>
+	<defs>
+		<path id="path0_fill" fill-rule="evenodd" d="M 0 7.75992C 0 3.47423 3.47423 0 7.75992 0C 12.0456 0 15.5198 3.47423 15.5198 7.75992L 15.5198 42.9926C 15.5198 47.2783 12.0456 50.7525 7.75992 50.7525C 3.47423 50.7525 0 47.2783 0 42.9926L 0 7.75992Z"/>
+		<path id="path1_fill" fill-rule="evenodd" d="M 10.7334 32.2633L 16.4074 12.7682L 12.7406 0L 3.33623 4.16208L 0 19.2721L 9.51103 33.4321L 10.7334 32.2633Z"/>
+	</defs>
+</svg>
