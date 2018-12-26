@@ -1,9 +1,9 @@
 {
-  "main.css": "/static/css/main.7a8f195a.chunk.css",
-  "main.js": "/static/js/main.95933609.chunk.js",
-  "main.js.map": "/static/js/main.95933609.chunk.js.map",
-  "static/js/1.04747267.chunk.js": "/static/js/1.04747267.chunk.js",
-  "static/js/1.04747267.chunk.js.map": "/static/js/1.04747267.chunk.js.map",
+  "main.css": "/static/css/main.9d2c0a8d.chunk.css",
+  "main.js": "/static/js/main.1b6a8f57.chunk.js",
+  "main.js.map": "/static/js/main.1b6a8f57.chunk.js.map",
+  "static/js/1.df8171c5.chunk.js": "/static/js/1.df8171c5.chunk.js",
+  "static/js/1.df8171c5.chunk.js.map": "/static/js/1.df8171c5.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/dashboardIcon.svg": "/static/media/dashboardIcon.cb23e0cf.svg",
@@ -36,8 +36,8 @@
   "static/media/index.css": "/static/media/Proxima_Nova_Regular.410504d4.otf",
   "static/media/dashboard-files.svg": "/static/media/dashboard-files.5b9c9b2c.svg",
   "static/media/dashboard-reports.svg": "/static/media/dashboard-reports.5ef53704.svg",
-  "static/css/main.7a8f195a.chunk.css.map": "/static/css/main.7a8f195a.chunk.css.map",
+  "static/css/main.9d2c0a8d.chunk.css.map": "/static/css/main.9d2c0a8d.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.7b284153baf907015413151c74d72123.js": "/precache-manifest.7b284153baf907015413151c74d72123.js",
+  "precache-manifest.748b247a2c41be1ba4905c0057b79f8a.js": "/precache-manifest.748b247a2c41be1ba4905c0057b79f8a.js",
   "service-worker.js": "/service-worker.js"
 }

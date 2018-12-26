@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/dashboard-finance.a0839d1c.svg"
   },
   {
-    "revision": "959336096e77de951ac3",
-    "url": "/static/css/main.7a8f195a.chunk.css"
+    "revision": "1b6a8f57c631fc2919f4",
+    "url": "/static/css/main.9d2c0a8d.chunk.css"
   },
   {
-    "revision": "04747267f53924d8cbfa",
-    "url": "/static/js/1.04747267.chunk.js"
+    "revision": "df8171c5c61aff5198e5",
+    "url": "/static/js/1.df8171c5.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -72,8 +72,8 @@ self.__precacheManifest = [
     "url": "/static/media/dashboard-network.fd242356.svg"
   },
   {
-    "revision": "959336096e77de951ac3",
-    "url": "/static/js/main.95933609.chunk.js"
+    "revision": "1b6a8f57c631fc2919f4",
+    "url": "/static/js/main.1b6a8f57.chunk.js"
   },
   {
     "revision": "baa73cda5b52b5907cc108be003fa14b",
@@ -140,7 +140,7 @@ self.__precacheManifest = [
     "url": "/static/media/dashboard-reports.5ef53704.svg"
   },
   {
-    "revision": "be10f20d7c2fdfcc6bc6555246257659",
+    "revision": "2a92a8842d220026331d88131007a1d3",
     "url": "/index.html"
   }
 ];
