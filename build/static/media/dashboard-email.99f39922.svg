@@ -1,0 +1,13 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 15 Copy 9">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M0 0H20V20H0V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<g id="Group 40">
+<path id="Rectangle-path" d="M0 3H20V17H0V3Z" fill="#5B91FB"/>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M20 3H0V5.4375L8.59526 9.70556C9.47241 10.1411 10.5276 10.1411 11.4047 9.70556L20 5.4375V3Z" fill="#B2CCFF"/>
+</g>
+</g>
+</g>
+</svg>

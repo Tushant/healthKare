@@ -1,0 +1,16 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 15 Copy 10">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="20" height="20">
+<path id="Mask" fill-rule="evenodd" clip-rule="evenodd" d="M0 20H20V0H0V20Z" fill="white"/>
+</mask>
+<g mask="url(#mask0)">
+<g id="Group 9">
+<path id="Combined Shape" d="M3 17C3 18.6569 4.34315 20 6 20H17C18.6569 20 20 18.6569 20 17V3C20 1.34315 18.6569 0 17 0H6C4.34315 0 3 1.34315 3 3V17Z" fill="#5B91FB"/>
+<path id="Path 6" fill-rule="evenodd" clip-rule="evenodd" d="M2.90332 19.9897C2.90332 19.9897 -0.113621 19.8753 0.00710149 15.917L14.3711 15.8577C14.3711 15.8577 14.6455 19.5771 17.0067 19.9897C17.4816 20.0727 17.4518 20.034 16.8253 20.0105C16.3955 19.9943 15.6723 20.025 14.6832 20.0105C13.1315 19.9877 10.7674 20.1409 7.88484 20.0814C6.40235 20.0508 2.90332 19.9897 2.90332 19.9897Z" fill="#B2CCFF"/>
+<path id="Rectangle-path" d="M6 11.5C6 11.7761 6.22386 12 6.5 12H14.5C14.7761 12 15 11.7761 15 11.5C15 11.2239 14.7761 11 14.5 11H6.5C6.22386 11 6 11.2239 6 11.5Z" fill="#B2CCFF"/>
+<path id="Rectangle-path_2" d="M6 8.5C6 8.77614 6.22386 9 6.5 9H11.5C11.7761 9 12 8.77614 12 8.5C12 8.22386 11.7761 8 11.5 8H6.5C6.22386 8 6 8.22386 6 8.5Z" fill="#B2CCFF"/>
+<path id="Rectangle-path_3" d="M6 5.5C6 5.77614 6.22386 6 6.5 6H13.3C13.5761 6 13.8 5.77614 13.8 5.5C13.8 5.22386 13.5761 5 13.3 5H6.5C6.22386 5 6 5.22386 6 5.5Z" fill="#B2CCFF"/>
+</g>
+</g>
+</g>
+</svg>
